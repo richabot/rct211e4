@@ -3,20 +3,14 @@
     {
       "id": 1,
       "country": "India",
-      "city": "Delhi",
-      "population": 19000000
+      "city": "goa",
+      "population": 222
     },
     {
       "id": 3,
       "country": "Spain",
       "city": "Madrid",
       "population": 232304
-    },
-    {
-      "id": 4,
-      "country": "Albania",
-      "city": "Tirana",
-      "population": 39582
     },
     {
       "id": 5,
@@ -31,22 +25,10 @@
       "population": 705698
     },
     {
-      "id": 7,
-      "country": "Poland",
-      "city": "Warszawa",
-      "population": 934852
-    },
-    {
       "id": 8,
       "country": "Russian Federation",
       "city": "Moscow",
       "population": 569874
-    },
-    {
-      "id": 9,
-      "country": "Saudi Arabia",
-      "city": "Riyadh",
-      "population": 203843
     },
     {
       "id": 10,

@@ -30,7 +30,7 @@ export const UpdateAPI = (params) => (dispatch) => {
       population: params.population,
 
     })
-    .then((r) => console.log(r.data,"delete"))
+    .then((r) => dispatch(updateSuccess(r.data)))
     .catch((err) => dispatch(updateError (err)));
 };
 
